@@ -2,10 +2,11 @@
 """
 Django settings for ebook project.
 
-For mofsd fsdf dsaf sre information on this file, see
-https://docs.djangf asd fasdf 
+For more information on this file, see
+https://docs.djangoproject.com/en/1.6/topics/settings/
+
 For the full list of settings and their values, see
-https://docs.djangoprosadf sdf sa dfject.com/en/1.6/ref/settings/
+https://docs.djangoproject.com/en/1.6/ref/settings/
 """
 import os.path
 import os
