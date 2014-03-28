@@ -12,6 +12,7 @@ from ajax_select.fields import AutoCompleteSelectMultipleField, AutoCompleteSele
 from django.utils.translation import ugettext_lazy as _
 from mptt.forms import TreeNodeChoiceField
 import datetime
+### testowy koment
 class EFileForm(forms.ModelForm):
     class Meta:
         model = EFiles
